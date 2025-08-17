@@ -4,19 +4,6 @@ Overview
 This project investigates the use of machine learning (ML) to predict Autism Spectrum Disorder (ASD) in adults using questionnaire responses (AQ-10 items) and demographic variables.
 The goal is to develop a lightweight, interpretable, and scalable screening model that can be embedded in mobile or web-based applications, enabling early detection and supporting equitable healthcare.
 
-Project Structure
-.
-├── train.csv                # Training dataset
-├── test.csv                 # Test dataset
-├── notebooks/               # Jupyter notebooks for EDA & modelling
-├── preprocessing/           # Preprocessing scripts (encoding, scaling, balancing)
-├── models/                  # Trained models & pipelines
-├── results/                 # Evaluation metrics, plots, SHAP, fairness analysis
-├── part_2_analysis.pdf      # EDA and detailed analysis
-├── part_3.docx              # Modelling and evaluation report
-├── A1944825_sadman_sharif.docx # Final integrated report
-└── README.md                # Project documentation
-
 Methodology
 1. Data Acquisition
 
